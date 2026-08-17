@@ -48,7 +48,7 @@ int main(int argc, char *argv[]) {
 	
 	dist=sqrt(cat1+cat2);
 	
-	printf("%0.2d",dist);
+	printf("%d",dist);
 	
 	return 0;
 	//0111111
